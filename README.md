@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dejourford?tab=repositories](https://github.com/dejourford?tab=repositories)
 
-- 📫 How to reach me **dejourford@my.unt.edu**
+- 📫 How to reach me **dejourford@yahoo.com**
 
 - ⚡ Fun fact **I could eat Chicken Alfredo everyday....yes,EVERYDAY.**
 
