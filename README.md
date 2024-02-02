@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dejourfordd" target="blank"><img src="https://img.shields.io/twitter/follow/dejourfordd?logo=twitter&style=for-the-badge" alt="dejourfordd" /></a> </p>
 
-- 🔭 I’m currently working on [dejourportfolio](https://dejourford.netlify.app/)
+- 🔭 I’m currently working on [Stock App](https://dejourstockapp.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dejourford?tab=repositories](https://github.com/dejourford?tab=repositories)
 
