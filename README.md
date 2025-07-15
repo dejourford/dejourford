@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm De'Jour Ford</h1>
-<h3 align="center">A passionate Front-End Developer from Dallas, Texas</h3>
+<h3 align="center">A passionate IT Professional from Dallas, Texas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dejourford&label=Profile%20views&color=0e75b6&style=flat" alt="dejourford" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dejourfordd" target="blank"><img src="https://img.shields.io/twitter/follow/dejourfordd?logo=twitter&style=for-the-badge" alt="dejourfordd" /></a> </p>
-
-- 🔭 I’m currently working on [Stock App](https://dejourstockapp.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dejourford?tab=repositories](https://github.com/dejourford?tab=repositories)
 
