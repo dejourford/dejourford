@@ -8,6 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
+- **[Vulnerability Scan](https://github.com/dejourford/vulnerability_scan)**
 - **[Vulnerability Management Program Implementation](#)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](#)**
 
