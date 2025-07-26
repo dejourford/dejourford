@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Scan](https://github.com/dejourford/vulnerability_scan_v2.0)**
 - **[Agent-Based Vulnerability Management](https://github.com/dejourford/agent_based_scan)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/dejourford/programmatic_vulnerability_scan)**
-- **[Vulnerability Management Program Implementation](#)**
+- **[Vulnerability Management Program Implementation](https://github.com/dejourford/vulnerability_management_program)**
 
 ## 🚨 Threat Hunting and Security Operations
 
