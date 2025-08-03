@@ -15,6 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
+- **[Microsoft Azure Honeypot Attacker Heatmap](https://github.com/dejourford/siem_honeypot)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](#)**
 
 <hr/>
