@@ -20,6 +20,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Cloud-Based SOC Lab with Microsoft Sentinel](https://github.com/dejourford/siem_honeypot)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](#)**
 
+## ☁️ Cloud Security
+
+- **[Azure Web Application Using Juice Shop](https://github.com/dejourford/azure_web_app)**
+
+
 <hr/>
 
 ## 🤳 Connect With Me
