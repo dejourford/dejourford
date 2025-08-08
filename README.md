@@ -18,7 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Cloud-Based SOC Lab with Microsoft Sentinel](https://github.com/dejourford/siem_honeypot)**
-- **[Threat Hunting Scenario (Tor Browser Usage)](#)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/dejourford/tor_usage)**
 
 ## ☁️ Cloud Security
 
