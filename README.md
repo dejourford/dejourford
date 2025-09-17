@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=34F700&random=true&width=435&lines=%F0%9F%9A%A8+Responding+to+threats;%F0%9F%9B%A0%EF%B8%8F+Remediating+Vulnerabilities;%F0%9F%94%90+Hardening+defenses)](https://git.io/typing-svg)
 
 <h1>Hi 👋, I'm <a href="https://www.linkedin.com/in/dejourford/">De'Jour Ford</a></h1>
-<h3>A passionate Cyber Security Professional from Dallas, Texas</h3>
+<h3>A passionate Front-End Web Developer and Cyber Security Professional from Dallas, Texas</h3>
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
