@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%BB+Centering+divs;%F0%9F%9B%A0%EF%B8%8F+Building+User+Experiences;%F0%9F%8E%AF+Mastering+CSS;%F0%9F%A7%A0+Learning+New+Technologies)](https://git.io/typing-svg)
-
 <h1 align="center">Hi 👋, I'm De'Jour Ford</h1>
 <h3 align="center">A passionate Cloud Engineer from Dallas, Texas</h3>
 
